@@ -1,6 +1,6 @@
 #ifndef CALC_ECU_TEMP_H
 #define CALC_ECU_TEMP_H
-/* ciao*/
+
 #include <stdint.h>
 
 /**
